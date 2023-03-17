@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamad</h1>
-<h3 align="center">A passionate DevOps Engineer, currently in the UK</h3>
+<h3 align="center">Aspiring DevOps Engineer, currently in the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjallow20&label=Profile%20views&color=0e75b6&style=flat" alt="mjallow20" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub Page](GitHub Page)
 
-- 💬 Ask me about **Azure, Azure Devops & GitHub**
+- 💬 Ask me about **AWS, Azure, Azure Devops & GitHub, Docker, Ansible**
 
 - 📫 How to reach me **mjallow@gmail.com**
 
